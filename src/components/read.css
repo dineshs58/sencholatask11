@@ -1,0 +1,27 @@
+.readdiv {
+    overflow: auto !important;
+    margin-top: 50px;
+     /* background: rgba(207, 190, 190, 0.363) !important; */
+}
+.table
+{
+    
+    overflow-x: scroll;
+   
+}
+/* .tabelcol
+{
+    background-color: rgba(127, 255, 212, 0) !important;
+   
+}
+.tabelcol1
+{
+     color:rgb(235, 233, 233) !important;
+     font-size: 2vw;
+     font-weight: 200;
+}
+.tablecol2
+{
+    font-size:2vw;
+    font-weight: 500;
+} */

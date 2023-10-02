@@ -1,0 +1,30 @@
+.homehead
+{
+    
+    height:650px;
+    position: relative;
+}
+.homeimg{
+    width: 100%;
+    object-fit:fill;
+    background-size: 100% 100%;
+    filter: brightness(60%);
+    height: 100%;
+}
+.homecontainer
+{
+    position: absolute;
+    top:10%;
+    left:2vw;
+    right: 2vw;
+    
+}
+.newuser
+{
+    margin-top: 60px;
+    color:white;
+    font-size: 30px;
+    text-align: center;
+    background: rgba(207, 190, 190, 0.363) !important;
+
+}
